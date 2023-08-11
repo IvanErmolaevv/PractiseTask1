@@ -1,0 +1,15 @@
+E:\Практические задания C#\PracticalTask1\Task6\bin\Debug\net6.0\Task6.exe
+E:\Практические задания C#\PracticalTask1\Task6\bin\Debug\net6.0\Task6.deps.json
+E:\Практические задания C#\PracticalTask1\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+E:\Практические задания C#\PracticalTask1\Task6\bin\Debug\net6.0\Task6.dll
+E:\Практические задания C#\PracticalTask1\Task6\bin\Debug\net6.0\Task6.pdb
+E:\Практические задания C#\PracticalTask1\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+E:\Практические задания C#\PracticalTask1\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практические задания C#\PracticalTask1\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+E:\Практические задания C#\PracticalTask1\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+E:\Практические задания C#\PracticalTask1\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+E:\Практические задания C#\PracticalTask1\Task6\obj\Debug\net6.0\Task6.dll
+E:\Практические задания C#\PracticalTask1\Task6\obj\Debug\net6.0\refint\Task6.dll
+E:\Практические задания C#\PracticalTask1\Task6\obj\Debug\net6.0\Task6.pdb
+E:\Практические задания C#\PracticalTask1\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+E:\Практические задания C#\PracticalTask1\Task6\obj\Debug\net6.0\ref\Task6.dll
