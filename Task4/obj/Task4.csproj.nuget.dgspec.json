@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Практические задания C#\\PracticalTask1\\Task2\\Задача 2.csproj": {}
+    "E:\\Практические задания C#\\PracticalTask1\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "E:\\Практические задания C#\\PracticalTask1\\Task2\\Задача 2.csproj": {
+    "E:\\Практические задания C#\\PracticalTask1\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Практические задания C#\\PracticalTask1\\Task2\\Задача 2.csproj",
-        "projectName": "Задача 2",
-        "projectPath": "E:\\Практические задания C#\\PracticalTask1\\Task2\\Задача 2.csproj",
+        "projectUniqueName": "E:\\Практические задания C#\\PracticalTask1\\Task4\\Task4.csproj",
+        "projectName": "Task4",
+        "projectPath": "E:\\Практические задания C#\\PracticalTask1\\Task4\\Task4.csproj",
         "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "E:\\Практические задания C#\\PracticalTask1\\Task2\\obj\\",
+        "outputPath": "E:\\Практические задания C#\\PracticalTask1\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"

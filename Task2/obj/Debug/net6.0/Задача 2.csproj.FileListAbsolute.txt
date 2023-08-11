@@ -13,3 +13,18 @@ E:\Практические задания C#\Практическое зада�
 E:\Практические задания C#\Практическое задание № 1\Задача 2\obj\Debug\net6.0\Задача 2.pdb
 E:\Практические задания C#\Практическое задание № 1\Задача 2\obj\Debug\net6.0\Задача 2.genruntimeconfig.cache
 E:\Практические задания C#\Практическое задание № 1\Задача 2\obj\Debug\net6.0\ref\Задача 2.dll
+E:\Практические задания C#\PracticalTask1\Task2\bin\Debug\net6.0\Задача 2.exe
+E:\Практические задания C#\PracticalTask1\Task2\bin\Debug\net6.0\Задача 2.deps.json
+E:\Практические задания C#\PracticalTask1\Task2\bin\Debug\net6.0\Задача 2.runtimeconfig.json
+E:\Практические задания C#\PracticalTask1\Task2\bin\Debug\net6.0\Задача 2.dll
+E:\Практические задания C#\PracticalTask1\Task2\bin\Debug\net6.0\Задача 2.pdb
+E:\Практические задания C#\PracticalTask1\Task2\obj\Debug\net6.0\Задача 2.csproj.AssemblyReference.cache
+E:\Практические задания C#\PracticalTask1\Task2\obj\Debug\net6.0\Задача 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практические задания C#\PracticalTask1\Task2\obj\Debug\net6.0\Задача 2.AssemblyInfoInputs.cache
+E:\Практические задания C#\PracticalTask1\Task2\obj\Debug\net6.0\Задача 2.AssemblyInfo.cs
+E:\Практические задания C#\PracticalTask1\Task2\obj\Debug\net6.0\Задача 2.csproj.CoreCompileInputs.cache
+E:\Практические задания C#\PracticalTask1\Task2\obj\Debug\net6.0\Задача 2.dll
+E:\Практические задания C#\PracticalTask1\Task2\obj\Debug\net6.0\refint\Задача 2.dll
+E:\Практические задания C#\PracticalTask1\Task2\obj\Debug\net6.0\Задача 2.pdb
+E:\Практические задания C#\PracticalTask1\Task2\obj\Debug\net6.0\Задача 2.genruntimeconfig.cache
+E:\Практические задания C#\PracticalTask1\Task2\obj\Debug\net6.0\ref\Задача 2.dll
